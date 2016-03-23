@@ -1,4 +1,8 @@
 /***@author YatingChen @time 03.23.16*********/
+/***AAC 2.7 get the Random permutation of N*******/
+/***** getRandom time used bound to O(N*N*logN)******
+*******getRandom2 time used bound to 0(N*logN)*******
+* getRandom3 time used bound to 0(n)*************/
 
 #include <stdio.h>
 #include <stdlib.h>
